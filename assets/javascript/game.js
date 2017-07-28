@@ -1,5 +1,5 @@
 // Variables that store data for the game
-var wordsChoices = ["compaq", "dell", "hewlett", "apple"];
+var wordChoices = ["compaq", "dell", "hewlett", "apple"];
 var chosenWord = "";
 var breakLetters = [];
 var numBlanks = 0;
